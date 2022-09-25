@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{98C673DF-49D0-CC9A-D97D-CA8FA3C5E61A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GraphicLearning",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WindSimulate",
+			"Enabled": true
+		}
+	]
+}
